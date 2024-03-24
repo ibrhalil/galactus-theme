@@ -1,5 +1,5 @@
-# Celestial
-## VS Code theme for all the people who love to code in deep dark spaces.
+# jwrdark
+## VS Code theme for all the people who love to code in deep dark spaces, and also like jasonwryan's terminal colors
 
 ----------
 
