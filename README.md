@@ -11,14 +11,14 @@
 
 ## Installation
 
-1. Search for Celestial Theme in Extensions option in VS Code sidebar
-2. Click on Install to add the theme to your VS COde setup
+1. Search for jwrdark Theme in Extensions option in VS Code sidebar
+2. Click on Install to add the theme to your VS Code setup
 3. Open the Command Palette and select Preferences: Color Theme. This will list down all the themes you've installed.
-4. Select the Celestial theme to activate it.
+4. Select the jwrdark theme to activate it.
 
 ## Credits
 
-Celestial is a modified(darker) version of [Horizon](https://marketplace.visualstudio.com/items?itemName=jolaleye.horizon-theme-vscode) Theme by [Jonathon](https://marketplace.visualstudio.com/publishers/jolaleye).
+jwrdark is a modified version of [Celestial](https://marketplace.visualstudio.com/items?itemName=apvarun.celestial) Theme by [Varun A P](https://marketplace.visualstudio.com/publishers/apvarun).
 
 ## License
 

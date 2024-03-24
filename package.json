@@ -1,19 +1,19 @@
 {
-    "name": "celestial",
-    "displayName": "Celestial",
-    "description": "VS Code theme for all the people who love to code in deep dark spaces.",
-    "version": "0.2.0",
-    "publisher": "apvarun",
+    "name": "jwrdark",
+    "displayName": "jwrdark",
+    "description": "VS Code theme for the other 6 people who appreciate the terminal color scheme by jasonwryan.",
+    "version": "0.1.0",
+    "publisher": "oloier",
     "repository": {
         "type": "git",
-        "url": "https://github.com/apvarun/celestial-theme"
+        "url": "https://github.com/oloier/jwrdark-theme"
     },
     "bugs": {
-        "url": "https://github.com/apvarun/celestial-theme/issues"
+        "url": "https://github.com/oloier/jwrdark-theme/issues"
     },
-    "icon": "Celestial.png",
+    "icon": "jwrdark.png",
     "galleryBanner": {
-        "color": "#0b0c0f",
+        "color": "#080808",
         "theme": "dark"
     },
     "engines": {
@@ -25,9 +25,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Celestial",
+                "label": "jwrdark",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Celestial-color-theme.json"
+                "path": "./themes/jwrdark-color-theme.json"
             }
         ]
     }
