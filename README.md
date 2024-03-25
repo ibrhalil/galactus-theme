@@ -4,7 +4,7 @@
 ----------
 
 <p align="center">
-  <img alt="Celestial Preview" src="https://github.com/apvarun/celestial-theme/raw/master/Preview.png" style="border-radius: 5px;">
+  <img alt="Celestial Preview" src="https://github.com/oloier/jwrdark-theme/raw/master/Preview.png" style="border-radius: 5px;">
 </p>
 
 ----------
