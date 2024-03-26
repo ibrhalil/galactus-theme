@@ -74,13 +74,16 @@
 		"editorCursor.background": "#0c0c0c",
 		"editorCursor.foreground": "#CF4F88",
 		"editor.selectionBackground": "#303030B3",
-		"editor.selectionHighlightBackground": "#7777774D",
-		"editor.wordHighlightBackground": "#77777780",
-		"editor.wordHighlightStrongBackground": "#77777780",
-		"editor.findMatchBackground": "#77777780",
-		"editor.findMatchHighlightBackground": "#77777733",
-		"editor.findRangeHighlightBackground": "#7777771A",
-		"editor.hoverHighlightBackground": "#7777774D",
+		"editor.selectionHighlightBackground": "#c0c0c022",
+		"editor.wordHighlightBackground": "#c0c0c011",
+		"editor.wordHighlightStrongBackground": "#c0c0c011",
+		"editor.findMatchBorder": "#8A2F58",
+		"editor.findMatchBackground": "#BF85CC11",
+		"editor.findMatchHighlightBorder": "#8A2F58",
+		"editor.findMatchHighlightBackground": "#914E8911",
+		"editor.findRangeHighlightBorder": "#39557366",
+		"editor.findRangeHighlightBackground": "#4779B333",
+		"editor.hoverHighlightBackground": "#77777733",
 		"editor.lineHighlightBackground": "#3030304D",
 		"editor.rangeHighlightBackground": "#30303080",
 		"editorIndentGuide.background1": "#30303080",
@@ -209,13 +212,6 @@
 			}
 		},
 		{
-			"name": "Booleans",
-			"scope": "constant.language.boolean",
-			"settings": {
-				"foreground": "#61afef"
-			}
-		},
-		{
 			"name": "Escape characters",
 			"scope": "constant.character.escape",
 			"settings": {
@@ -251,6 +247,15 @@
 			"settings": {
 				"foreground": "#899CA1",
 				"fontStyle": ""
+			}
+		},
+		{
+			"scope": [
+				"constant.other",
+				"constant.character.entity",
+			],
+			"settings": {
+			  "foreground": "#5E468C"
 			}
 		},
 		{
