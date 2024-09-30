@@ -1,34 +1,37 @@
 {
-    "name": "jwrdark",
-    "displayName": "jwrdark",
-    "description": "VS Code theme for the other 6 people who appreciate the terminal color scheme by jasonwryan.",
-    "version": "0.1.0",
-    "publisher": "oloier",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/oloier/jwrdark-theme"
-    },
-    "bugs": {
-        "url": "https://github.com/oloier/jwrdark-theme/issues"
-    },
-    "icon": "jwrdark.png",
-    "galleryBanner": {
-        "color": "#080808",
-        "theme": "dark"
-    },
-    "engines": {
-        "vscode": "^1.37.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "jwrdark",
-                "uiTheme": "vs-dark",
-                "path": "./themes/jwrdark-color-theme.json"
-            }
-        ]
-    }
+	"name": "galactus",
+	"displayName": "galactus",
+	"description": "VS Code Marvel Galactus Theme for all people who love to code in deep dark spaces",
+	"version": "0.1.0",
+	"publisher": "ibrhalil",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ibrhalil/galactus-theme"
+	},
+	"bugs": {
+		"url": "https://github.com/ibrhalil/galactus-theme/issues"
+	},
+	"icon": "galactus.png",
+	"galleryBanner": {
+		"color": "#080808",
+		"theme": "dark"
+	},
+	"engines": {
+		"vscode": "^1.37.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "galactus",
+				"uiTheme": "vs-dark",
+				"path": "./themes/galactus-color-theme.json"
+			}
+		]
+	},
+	"scripts": {
+		"build": "vsce package"
+	}
 }
