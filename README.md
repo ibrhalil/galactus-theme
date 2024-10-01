@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <img alt="galactus Preview" src="https://github.com/oloier/galactus-theme/raw/master/Preview.png" style="border-radius: 5px;">
+  <img alt="galactus Preview" src="https://github.com/ibrhalil/galactus-theme/raw/master/Preview.png" style="border-radius: 5px;">
 </p>
 
 ---
@@ -19,7 +19,7 @@
 
 ## Credits
 
-galactus is a modified version of [jwrdark](https://marketplace.visualstudio.com/items?itemName=apvarun.celestial) Theme by [Varun A P](https://marketplace.visualstudio.com/publishers/apvarun).
+galactus is a modified version of [galactus](https://marketplace.visualstudio.com/items?itemName=apvarun.celestial) Theme by [Varun A P](https://marketplace.visualstudio.com/publishers/apvarun).
 
 ## License
 
