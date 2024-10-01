@@ -19,7 +19,7 @@
 
 ## Credits
 
-galactus is a modified version of [galactus](https://marketplace.visualstudio.com/items?itemName=oloier.jwrdark) Theme by [oloier](https://marketplace.visualstudio.com/publishers/oloier).
+galactus is a modified version of [jwrdark](https://marketplace.visualstudio.com/items?itemName=oloier.jwrdark) Theme by [oloier](https://marketplace.visualstudio.com/publishers/oloier).
 
 ## License
 
