@@ -1,9 +1,9 @@
 {
-	"name": "galactus",
+	"name": "galactus-theme",
 	"displayName": "galactus",
 	"description": "VS Code Marvel Galactus Theme for all people who love to code in deep dark spaces",
 	"version": "0.1.0",
-	"publisher": "ibrhalil",
+	"publisher": "ibrhalilaydn",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/ibrhalil/galactus-theme"
@@ -25,7 +25,17 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "galactus",
+				"label": "Galactus Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/galactus-color-theme.json"
+			},
+			{
+				"label": "Galactus Dark +",
+				"uiTheme": "vs-dark",
+				"path": "./themes/galactus-color-theme.json"
+			},
+			{
+				"label": "Galactus Dark Daytime",
 				"uiTheme": "vs-dark",
 				"path": "./themes/galactus-color-theme.json"
 			}
